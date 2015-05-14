@@ -1,0 +1,11 @@
+/*#################   CHANGE TEXT COLOR TO RED   #################*/
+
+.content  {
+	width: 50%;
+	margin: 15% 25%;
+	color: red;
+}
+#greeting {
+
+	font-size: 1.5em;
+}
